@@ -1,7 +1,10 @@
-### Hi there. 👋 I'm Riyas, a final year student at National University of Singapore (NUS), majoring in Computer Engineering with a passion for developing innovative software solutions to tackle real-world problems.
+### Hi there. 👋 
 
+Welcome to my GitHub profile! 
 
-Welcome to my GitHub profile! Feel free to check my repositories out!
+I'm Riyas, a final year student at National University of Singapore (NUS), majoring in Computer Engineering with a passion for developing innovative software solutions to tackle real-world problems.
+
+Feel free to check my repositories out!
 
 <a href="https://github.com/riyas97">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=riyas97&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=contribs&theme=dark" />
